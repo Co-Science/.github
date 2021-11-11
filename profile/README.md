@@ -1,5 +1,8 @@
+# Hey 👋
+![github-image](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+Open-source student developers from Earth🌍
 
-## 🏠 In House Repo
+### 🏠 In House Repo
 
 - [Fast-Algo-probs](https://github.com/Co-Science/Fast-Algo-probs) | To store fast & efficient algo's
 - [CountMeDown](https://github.com/Co-Science/CountMeDown)         | A countdown timer website
@@ -7,7 +10,7 @@
 - [Cs-Web](https://github.com/Co-Science/Cs-Web)                   | Make a website for easy access of study-material for b-tech Students
 - [JoinTheTeam](https://github.com/Co-Science/JoinTheTeam)         | A repo to join the team
 
-## 📚 Co-Science Learn
+### 📚 Co-Science Learn
 
 - [Data-Science-For-Beginners](https://github.com/Co-Science/Data-Science-For-Beginners)
 - [IoT-For-Beginners](https://github.com/Co-Science/IoT-For-Beginners)
